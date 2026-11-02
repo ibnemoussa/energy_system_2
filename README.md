@@ -2,7 +2,7 @@
 
 # AI Energy Forecasting System
 
-An end-to-end solar photovoltaic energy forecasting platform powered by Artificial Neural Networks (ANN) and real-time numerical weather prediction for Kigali, Rwanda.
+An end-to-end solar photovoltaic energy forecasting platform powered by Artificial Neural Networks (ANN) and real-time numerical weather prediction.
 
 [![Python](https://img.shields.io/badge/Python-3.12-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-Keras_3.13-FF6F00?style=flat&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
